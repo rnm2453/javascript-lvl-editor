@@ -1,0 +1,25 @@
+.logo {
+	width: 9.5vw;
+	height: 18vh;
+	float: left;
+	border-radius: 0px;
+	border: 0.1vw black solid;
+	margin-left: 0.1vw;
+}
+
+
+#start {
+	background-image: url("logo-StartPoint.png"); 
+	background-size: cover;
+}
+
+#check {
+	background-image: url("logo-CheckPoint.png"); 
+	background-size: cover;
+}
+
+#end {
+	background-image: url("logo-EndPoint.png"); 
+	background-size: cover;
+}
+
