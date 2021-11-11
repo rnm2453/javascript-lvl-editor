@@ -1,7 +1,7 @@
 <?php
 	
 	// Create Connection
-	$conn = mysqli_connect('localhost', 'root', 'Game1234monkey', 'users');
+	$conn = mysqli_connect('localhost', 'root', '******', 'users');
 	
 	if (mysqli_connect_errno()) {
 		// Connection Failed
